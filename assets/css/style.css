@@ -321,5 +321,12 @@ img {
           bottom: 75px;
       }
 
-    }
+      .container{
+          height: 90%;
+      }
 
+      footer{
+          position: static;
+      }
+
+    }
